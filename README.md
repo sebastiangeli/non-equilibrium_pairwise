@@ -13,3 +13,5 @@ The codes are organized in the following way:
 The neuroimaging data used in this paper are publicly available from HCP. In addition, we provide a function within each code to generate data of equivalent shape that can be used for testing.
 
 For queries or issues, please contact Sebastian Geli at sebastianmanuel.geli@upf.edu
+
+Cite the code [![DOI](https://zenodo.org/badge/861690469.svg)](https://zenodo.org/doi/10.5281/zenodo.13838040)
